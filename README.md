@@ -1,0 +1,6 @@
+Main-------------------------->![Screenshot (207)](https://github.com/user-attachments/assets/03331ae4-e912-4cf4-a845-055c4df402cd)
+Server------------------------>![Screenshot (208)](https://github.com/user-attachments/assets/b8a89c1a-3624-4741-a10c-ebad537b22f5)
+Username---------------------->![Screenshot (209)](https://github.com/user-attachments/assets/a576cd7c-a775-45b9-b166-90f02f2a99e2)
+ClientList-------------------->![Screenshot (210)](https://github.com/user-attachments/assets/26fe7bd1-8621-4d1d-92ff-2f8039c61adb)
+ChatActivity------------------>![Screenshot (211)](https://github.com/user-attachments/assets/258f58ea-545e-46b1-abf7-12489fd5b63a)
+FileSharing------------------->![Screenshot (212)](https://github.com/user-attachments/assets/a701d093-a1fb-4b47-8e59-62a16db404b3)
