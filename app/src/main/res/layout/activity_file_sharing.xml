@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/backgroundColor"
+    tools:context=".YourFileSharingActivity">
+
+    <!-- Upload File Button -->
+    <Button
+        android:id="@+id/btnUploadFile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Upload File"
+        android:textColor="@color/buttonTextColor"
+        android:background="@drawable/rounded_button_blue"
+        android:textSize="16sp"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- ListView for Shared Files -->
+    <ListView
+        android:id="@+id/lvSharedFiles"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/listViewBackground"
+        android:divider="@color/listViewDivider"
+        android:dividerHeight="1dp"
+        android:padding="8dp"/>
+
+</LinearLayout>

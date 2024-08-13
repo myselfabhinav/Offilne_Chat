@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#9C27B0</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorHint">#888888</color>
+
+        <!-- Dark Theme Colors -->
+
+        <color name="editTextBackground">#1E1E1E</color>
+        <color name="buttonColorStart">#BB86FC</color>
+        <color name="buttonColorEnd">#621AE2</color>
+        <color name="textColor">#FFFFFF</color>
+        <color name="hintColor">#888888</color>
+
+
+
+
+    <color name="buttonAccent">#FF3B30</color> <!-- Red accent color -->
+    <color name="listViewBorder">#D3D3D3</color> <!-- Light gray border color -->
+
+
+    <color name="textColorPrimary">#333333</color> <!-- Dark text for titles -->
+    <color name="textColorSecondary">#666666</color> <!-- Light text for details -->
+    <color name="statusColor">#28A745</color> <!-- Green for status indicator -->
+
+    <color name="messageBackgroundSent">#DCF8C6</color> <!-- Light green for sent messages -->
+    <color name="messageBackgroundReceived">#EAEAEA</color> <!-- Light gray for received messages -->
+
+    <color name="sendButtonBackground">#FF3B30</color> <!-- Red for send button -->
+    <color name="sendButtonTextColor">#FFFFFF</color> <!-- White text for send button -->
+
+    <color name="backgroundColor">#F8F9FA</color> <!-- Light background -->
+    <color name="buttonBackground">#007BFF</color> <!-- Bright blue for buttons -->
+    <color name="buttonTextColor">#040303</color> <!-- White text for buttons -->
+    <color name="listViewBackground">#FFFFFF</color> <!-- White background for ListView -->
+    <color name="listViewDivider">#DDDDDD</color> <!-- Light gray divider for ListView -->
+    <color name="fileItemBackground">#F1F1F1</color> <!-- Light gray background for file items -->
+    <color name="fileItemTextColor">#333333</color> <!-- Dark text for file items -->
+</resources>

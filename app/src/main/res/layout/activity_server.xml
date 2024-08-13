@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/backgroundColor"
+    tools:context=".YourServerStatusActivity">
+
+    <!-- Server Status TextView -->
+    <TextView
+        android:id="@+id/tvServerStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Server Status"
+        android:textColor="@color/textColorPrimary"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"/>
+
+    <!-- Status Indicator (Circle) -->
+    <View
+        android:id="@+id/indicatorStatus"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_below="@id/tvServerStatus"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/circle_indicator" />
+
+    <!-- Server Status Details (Optional) -->
+    <TextView
+        android:id="@+id/tvStatusDetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Status details here"
+        android:textColor="@color/textColorSecondary"
+        android:textSize="16sp"
+        android:layout_below="@id/indicatorStatus"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"/>
+
+</RelativeLayout>
